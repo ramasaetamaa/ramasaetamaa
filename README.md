@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there Im Ramasaetama👋
 
 <!--
 **ramasaetamaa/ramasaetamaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently part of the Front-End Web & Back-End with AI cohort at Asah led by Dicoding
+- 🌱 I’m currently learning react framework
