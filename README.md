@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="img/github-header-banner.png" alt="Ramasaetama Banner" width="70%" />
+  <img src="img/github-header-banner.png" alt="Ramasaetama Banner" width="100%" />
 </p>
 
 - 🔭 I’m currently part of the Front-End Web & Back-End with AI cohort at **Asah led by Dicoding**
