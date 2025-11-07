@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently part of the Front-End Web & Back-End with AI cohort at **Asah led by Dicoding**
 - 🌱 I’m currently learning [**React**](https://react.com) Framework
-![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmIxN2t4eXVvbWswZ29mY2sxYnJpZGlvYWp4ZDA2bXl3MDZ1M3Z1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYxK/giphy.gif)
+![gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWo4eXU3ZDY5Ym9wZjdtNXlycHFjamV6cTRpYmsxdnp5djZzMnVxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif)
