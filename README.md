@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently part of the Front-End Web & Back-End with AI cohort at Asah led by Dicoding
-- 🌱 I’m currently learning react framework
+- 🔭 I’m currently part of the Front-End Web & Back-End with AI cohort at **Asah led by Dicoding**
+- 🌱 I’m currently learning [**React**](https://react.com) Framework
+![cat](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXR1YWZubWMwM3NhejFkbjJhOG1hZXF2Nmt0amFrcnB5dGFuMzR4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif)
