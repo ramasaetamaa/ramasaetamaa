@@ -1,5 +1,6 @@
 ## Hi there Im Ramasaetama👋
 
+
 <!--
 **ramasaetamaa/ramasaetamaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img src="img/github-header-banner.png" alt="Ramasaetama Banner" width="100%" />
+</p>
 - 🔭 I’m currently part of the Front-End Web & Back-End with AI cohort at **Asah led by Dicoding**
 - 🌱 I’m currently learning [**React**](https://react.com) Framework
 
 <!-- Centered, responsive GIF — use width attribute to avoid overlapping text. -->
 <p align="center">
-	<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWo4eXU3ZDY5Ym9wZjdtNXlycHFjamV6cTRpYmsxdnp5djZzMnVxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" alt="gif" width="70%" />
+	<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWo4eXU3ZDY5Ym9wZjdtNXlycHFjamV6cTRpYmsxdnp5djZzMnVxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" alt="gif" width="100%" />
 </p>
